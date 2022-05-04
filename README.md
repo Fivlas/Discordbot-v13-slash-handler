@@ -1,6 +1,3 @@
-<p>
-<img align='center' src="https://cdn.discordapp.com/attachments/875874671407534080/971489614915334184/avatar.png">
-</p>
 <p align='center'>
 I'm Fivlas.
 </p>
